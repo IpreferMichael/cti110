@@ -16,3 +16,8 @@ for grade in range(6):
     grades.append(grade)
 
 print(grades)
+
+#Max and Min grades in list
+
+print("The highest grade is:", max(grades))
+print("The lowest grade is: ", min(grades))
